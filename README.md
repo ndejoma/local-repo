@@ -25,6 +25,13 @@
       ```git
 
          git diff main PUll-REQUESTS 
-         
+
       ````
+
+    3. The last step click the Compare and Pull Request. Sending a request to the maintainers or the original author the repo, letting him/her look at your work, analyze it better, either to accept, request for changes or dismiss the request.
+
+    4. A new conversation starts between you and the project collaborators who can start to discuss and look at your work, before accepting or declining the pull Request
+
+    5. During the period of discussion, you and the other project collaborators can change the code to better fit the needs of the project. After that the original repository collaborators with write access can accept it or discard it, closing the Pull Request.
+    
       
