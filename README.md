@@ -21,3 +21,10 @@
 
        git push -u origin  <feature_branch>
       ```
+    2. After committing the feature branch, a new pull request appears. You can now compare the differences between the the two branches, in this case the PULL-REQUESTS branch and the main branch of the repository you forked from. It uses the git diff command to compare the two branches. It shows  files have been added, removed, deleted, changed and so on.
+      ```git
+
+         git diff main PUll-REQUESTS 
+         
+      ````
+      
