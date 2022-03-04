@@ -14,4 +14,10 @@
        git push -u origin main | git push --set-upstream origin main
      ```
      
-     
+  ## Creating  pull Requests
+    1. Create the new branch for the feature and commit it to the the repository you forked in your account
+      ```git
+       git checkout -b <feature_branch>
+
+       git push -u origin  <feature_branch>
+      ```
